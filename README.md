@@ -2,7 +2,7 @@ Algorithm Challenge #34 – Return Number Index in Array
 -
 🔍 Problem Description
 -
-This program fills an array with random numbers between 1 and 100.
+This program fills an array with random numbers between 1 and 100. 
 Then it asks the user for a number and searches for it inside the array.
 
 If found → returns the index (0-based) and its order (1-based).
